@@ -1,6 +1,7 @@
+/* Làm như hướng dẫn của Lab 12.1 */
 .bg-img1 {
   color:#fff;
-  height: 400px;
+  height: 450px;
   background-color: #000;
   background-size: cover;
   background-image: url(image/photo-1.avif);
@@ -8,7 +9,7 @@
 
 .bg-img2 {
   color:#fff;
-  height: 400px;
+  height: 450px;
   background-color: #000;
   background-size: cover;
   background-image: url(image/photo-2.avif);
@@ -16,14 +17,14 @@
 
 .bg-img3 {
   color:#fff;
-  height: 400px;
+  height: 450px;
   background-color: #000;
   background-size: cover;
   background-image: url(image/photo-3.avif);
 }
 
 .caroulsel-caption {
-  padding-top: 200px;
+  padding: 200px 100px 0 100px;
 }
 
 .footer {
@@ -36,5 +37,4 @@
 .footer-content li{
   padding-right: 30px;
 }
-
 
